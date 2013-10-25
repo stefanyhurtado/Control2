@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1382386972463_1" label="Control2" name="Control2">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/Control2" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1382293657583_0" label="Window Working Set" name="Aggregate for window 1382293657583"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1382388323419_2" label="Window Working Set" name="Aggregate for window 1382388323419"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1382441558253_3" label="Window Working Set" name="Aggregate for window 1382441558253"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1382453548463_4" label="Window Working Set" name="Aggregate for window 1382453548463"/>
+<mruList name="Control2"/>
+</workingSetManager>

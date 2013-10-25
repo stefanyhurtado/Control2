@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control2</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text1">Name</string>
+    <string name="Email_Text">Email</string>
+    <string name="Button1_SubmitForm">Submit Form</string>
+    <string name="title_activity_main_activity1">MainActivity1</string>
+    <string name="Text_View1">Jonh Doe</string>
+    <string name="Text_View2">jonh.doe@lost.com</string>
+    <string name="title_activity_show_form">ShowFormActivity</string>
+
+</resources>
